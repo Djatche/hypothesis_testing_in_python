@@ -12,3 +12,5 @@ les librairies utilisées sont:
 
 	- pingouin
 	- scipy.stats
+	- statsmodels.stats.proportion
+

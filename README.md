@@ -1,1 +1,1 @@
-# hypothesis_testing_in_python
+# hypothesis testing in python
